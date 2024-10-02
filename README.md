@@ -1,2 +1,2 @@
 # Capstone-Human-Detection-Model
- Self made model for human detection using advanced Neural Networks
+ Self made  and self trained model for human detection using advanced Neural Networks
